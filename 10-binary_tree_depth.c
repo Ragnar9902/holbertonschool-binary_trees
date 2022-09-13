@@ -8,7 +8,7 @@ size_t binary_tree_depth(binary_tree_t *tree)
 	{
 		return (0);
 	}
-	dth = 0;
+	dth = -1;
 	paren = tree;
 	while (paren != NULL)
 	{
