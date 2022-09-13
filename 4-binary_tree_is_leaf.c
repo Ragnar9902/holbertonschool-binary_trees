@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 /**
- * _height - check is the node is a leaf
+ * binary_tree_is_leaf - check is the node is a leaf
  *
  * @node: Pointer to de node to be ask
  *
